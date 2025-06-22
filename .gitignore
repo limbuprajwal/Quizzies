@@ -1,0 +1,16 @@
+# Java-related
+*.class
+*.jar
+*.war
+*.ear
+*.log
+bin/
+target/
+
+# Eclipse-related
+.classpath
+.project
+.settings/
+
+# VS Code-related
+.vscode/
