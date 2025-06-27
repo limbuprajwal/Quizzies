@@ -36,6 +36,6 @@ A Java Swing-based Quiz Application with Admin Panel
 
 - **Java**
 - **Swing** (for GUI)
-- **JDBC** or other local storage mechanism (based on your implementation)
+- **JDBC**
 
 
