@@ -19,7 +19,7 @@ A Java Swing-based Quiz Application with Admin Panel
   - Medium  
   - Hard
 - **Track Stats**:
-  - View quiz history with performance breakdowns.
+  - View quiz history with performance breakdowns (average scores).
   - Access personal stats in the **Profile** section.
 
 ### Admin Panel
